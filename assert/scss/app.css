@@ -125,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .box {
-  background: url("/assert/img/headphones-girl-smartphone.jpg");
+  background: url("../img/headphones-girl-smartphone.jpg");
   background-size: cover;
   background-position: center;
   margin: 20px 12px;
