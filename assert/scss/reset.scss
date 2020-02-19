@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+@mixin align-items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+//variables
+$bg-color: #141313;
+$primary-color: #CBCBCB;
+$dim-color : #828080;
+
+@mixin container {
+    margin: 50px 12px;
+     max-width: 550px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
